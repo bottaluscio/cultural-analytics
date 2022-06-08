@@ -1,2 +1,2 @@
 # cultural-analytics
-News scraping and analysis for PhD course project.
+News scraping and analysis for PhD course project
