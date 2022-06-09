@@ -128,5 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Pygooglenews json tempfiles
+# json data tempfiles
 /data/pygooglenews/*.json
+/data/articles/*.json
