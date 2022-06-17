@@ -1,0 +1,11 @@
+v1.0
+
+- Gnews queries completed 
+- Some pre-filtering applied
+
+v1.1
+
+Alpha version of a final articles datasetç:
+- Filtered articles not referring to vaccination or covid
+- Exploded country column
+

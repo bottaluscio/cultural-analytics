@@ -133,3 +133,4 @@ dmypy.json
 /data/articles/*.json
 data/text_dataset/*.csv
 data/text_dataset/*.xlsx
+*.pickle
